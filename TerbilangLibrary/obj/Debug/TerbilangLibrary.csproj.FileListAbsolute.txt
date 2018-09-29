@@ -1,0 +1,5 @@
+D:\BAGAS MUHAMMAD SAPUTRA\Amikom\SEMESTER 3\Pemograman Lanjut\Visual Studio\Terbilang\TerbilangLibrary\bin\Debug\TerbilangLibrary.dll
+D:\BAGAS MUHAMMAD SAPUTRA\Amikom\SEMESTER 3\Pemograman Lanjut\Visual Studio\Terbilang\TerbilangLibrary\bin\Debug\TerbilangLibrary.pdb
+D:\BAGAS MUHAMMAD SAPUTRA\Amikom\SEMESTER 3\Pemograman Lanjut\Visual Studio\Terbilang\TerbilangLibrary\obj\Debug\TerbilangLibrary.csprojResolveAssemblyReference.cache
+D:\BAGAS MUHAMMAD SAPUTRA\Amikom\SEMESTER 3\Pemograman Lanjut\Visual Studio\Terbilang\TerbilangLibrary\obj\Debug\TerbilangLibrary.dll
+D:\BAGAS MUHAMMAD SAPUTRA\Amikom\SEMESTER 3\Pemograman Lanjut\Visual Studio\Terbilang\TerbilangLibrary\obj\Debug\TerbilangLibrary.pdb

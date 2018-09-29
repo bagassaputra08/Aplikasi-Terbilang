@@ -1,0 +1,11 @@
+D:\BAGAS MUHAMMAD SAPUTRA\Amikom\SEMESTER 3\Pemograman Lanjut\Visual Studio\Terbilang\TerbilangApp\bin\Debug\TerbilangApp.exe.config
+D:\BAGAS MUHAMMAD SAPUTRA\Amikom\SEMESTER 3\Pemograman Lanjut\Visual Studio\Terbilang\TerbilangApp\obj\Debug\TerbilangApp.csprojResolveAssemblyReference.cache
+D:\BAGAS MUHAMMAD SAPUTRA\Amikom\SEMESTER 3\Pemograman Lanjut\Visual Studio\Terbilang\TerbilangApp\obj\Debug\TerbilangApp.Form1.resources
+D:\BAGAS MUHAMMAD SAPUTRA\Amikom\SEMESTER 3\Pemograman Lanjut\Visual Studio\Terbilang\TerbilangApp\obj\Debug\TerbilangApp.Properties.Resources.resources
+D:\BAGAS MUHAMMAD SAPUTRA\Amikom\SEMESTER 3\Pemograman Lanjut\Visual Studio\Terbilang\TerbilangApp\obj\Debug\TerbilangApp.csproj.GenerateResource.Cache
+D:\BAGAS MUHAMMAD SAPUTRA\Amikom\SEMESTER 3\Pemograman Lanjut\Visual Studio\Terbilang\TerbilangApp\bin\Debug\TerbilangApp.exe
+D:\BAGAS MUHAMMAD SAPUTRA\Amikom\SEMESTER 3\Pemograman Lanjut\Visual Studio\Terbilang\TerbilangApp\bin\Debug\TerbilangApp.pdb
+D:\BAGAS MUHAMMAD SAPUTRA\Amikom\SEMESTER 3\Pemograman Lanjut\Visual Studio\Terbilang\TerbilangApp\bin\Debug\TerbilangLibrary.dll
+D:\BAGAS MUHAMMAD SAPUTRA\Amikom\SEMESTER 3\Pemograman Lanjut\Visual Studio\Terbilang\TerbilangApp\bin\Debug\TerbilangLibrary.pdb
+D:\BAGAS MUHAMMAD SAPUTRA\Amikom\SEMESTER 3\Pemograman Lanjut\Visual Studio\Terbilang\TerbilangApp\obj\Debug\TerbilangApp.exe
+D:\BAGAS MUHAMMAD SAPUTRA\Amikom\SEMESTER 3\Pemograman Lanjut\Visual Studio\Terbilang\TerbilangApp\obj\Debug\TerbilangApp.pdb
